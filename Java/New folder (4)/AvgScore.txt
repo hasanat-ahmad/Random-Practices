@@ -1,0 +1,3 @@
+Total number of students: 6
+Average score: 80.5
+Number of students above average: 3

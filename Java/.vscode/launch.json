@@ -1,0 +1,469 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HaseebATM",
+            "request": "launch",
+            "mainClass": "HaseebATM",
+            "projectName": "Java_e05a92fe"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Mujtaba",
+            "request": "launch",
+            "mainClass": "Mujtaba",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Library",
+            "request": "launch",
+            "mainClass": "Library",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "LabMid",
+            "request": "launch",
+            "mainClass": "LabMid",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "PerfectNumber",
+            "request": "launch",
+            "mainClass": "PerfectNumber",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "PasswordChecker",
+            "request": "launch",
+            "mainClass": "PasswordChecker",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Paper",
+            "request": "launch",
+            "mainClass": "Paper",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Arsalan",
+            "request": "launch",
+            "mainClass": "Arsalan",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumbers",
+            "request": "launch",
+            "mainClass": "ReverseNumbers",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode",
+            "request": "launch",
+            "mainClass": "Leetcode",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "ExamPractice",
+            "request": "launch",
+            "mainClass": "ExamPractice",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Bukhari",
+            "request": "launch",
+            "mainClass": "Bukhari",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "TakingStringInputArrays",
+            "request": "launch",
+            "mainClass": "TakingStringInputArrays",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "FindingNumberInArrays",
+            "request": "launch",
+            "mainClass": "FindingNumberInArrays",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "LabToday",
+            "request": "launch",
+            "mainClass": "LabToday",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "ArraysPractice",
+            "request": "launch",
+            "mainClass": "ArraysPractice",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCalc",
+            "request": "launch",
+            "mainClass": "SwitchCalc",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "SwitchVowels",
+            "request": "launch",
+            "mainClass": "SwitchVowels",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "DiamondShape",
+            "request": "launch",
+            "mainClass": "DiamondShape",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "CountingOccurence",
+            "request": "launch",
+            "mainClass": "CountingOccurence",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AppleDistribution",
+            "request": "launch",
+            "mainClass": "AppleDistribution",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Assign_1",
+            "request": "launch",
+            "mainClass": "Assign_1",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Assign_2",
+            "request": "launch",
+            "mainClass": "Assign_2",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Assign_3",
+            "request": "launch",
+            "mainClass": "Assign_3",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Assign_4",
+            "request": "launch",
+            "mainClass": "Assign_4",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Bookseller",
+            "request": "launch",
+            "mainClass": "Bookseller",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "ComparisonDemo",
+            "request": "launch",
+            "mainClass": "ComparisonDemo",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Cricket",
+            "request": "launch",
+            "mainClass": "Cricket",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Currency",
+            "request": "launch",
+            "mainClass": "Currency",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Date",
+            "request": "launch",
+            "mainClass": "Date",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Desks",
+            "request": "launch",
+            "mainClass": "Desks",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "DigitalClock",
+            "request": "launch",
+            "mainClass": "DigitalClock",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Dollar",
+            "request": "launch",
+            "mainClass": "Dollar",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "EqualNumbers",
+            "request": "launch",
+            "mainClass": "EqualNumbers",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "ISBNCalculator",
+            "request": "launch",
+            "mainClass": "ISBNCalculator",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Kunal",
+            "request": "launch",
+            "mainClass": "Kunal",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "MagicDate",
+            "request": "launch",
+            "mainClass": "MagicDate",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Milk",
+            "request": "launch",
+            "mainClass": "Milk",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "MonthDays",
+            "request": "launch",
+            "mainClass": "MonthDays",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "NonDecreasingOrder",
+            "request": "launch",
+            "mainClass": "NonDecreasingOrder",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "PfQuiz",
+            "request": "launch",
+            "mainClass": "PfQuiz",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "PowerDemo",
+            "request": "launch",
+            "mainClass": "PowerDemo",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "QuadraticEquationSolver",
+            "request": "launch",
+            "mainClass": "QuadraticEquationSolver",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "RandomMonthGenerator",
+            "request": "launch",
+            "mainClass": "RandomMonthGenerator",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "RomanNumber",
+            "request": "launch",
+            "mainClass": "RomanNumber",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "SumOfDigits",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "SummerJob",
+            "request": "launch",
+            "mainClass": "SummerJob",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "TASK_4_B",
+            "request": "launch",
+            "mainClass": "TASK_4_B",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "TASK_4_C",
+            "request": "launch",
+            "mainClass": "TASK_4_C",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "TASK_4_D",
+            "request": "launch",
+            "mainClass": "TASK_4_D",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "TASK_A_4",
+            "request": "launch",
+            "mainClass": "TASK_A_4",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Task10",
+            "request": "launch",
+            "mainClass": "Task10",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Task5",
+            "request": "launch",
+            "mainClass": "Task5",
+            "projectName": "Java_d209beab"
+        },
+        {
+            "type": "java",
+            "name": "Task9",
+            "request": "launch",
+            "mainClass": "Task9",
+            "projectName": "Java_d209beab"
+        }
+    ]
+}
