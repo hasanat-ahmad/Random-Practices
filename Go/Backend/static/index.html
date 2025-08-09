@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Go Server Buttons</title>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<h1>Welcome!</h1>
+<button onclick="sendAction('action1')">Action 1</button>
+<button onclick="sendAction('action2')">Action 2</button>
+
+<script>
+function sendAction(action) {
+    fetch('/action', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: 'action=' + action
+    })
+    .then(response => response.text())
+    .then(data => alert(data))
+    .catch(err => console.error(err));
+}
+</script>
+</body>
+</html>
